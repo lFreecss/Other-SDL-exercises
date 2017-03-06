@@ -1,5 +1,5 @@
 ﻿  main1.cpp
-f:\projecte codi 1\projecte codi 1\main1.cpp(68): warning C4551: function call missing argument list
-f:\projecte codi 1\projecte codi 1\main1.cpp(76): warning C4551: function call missing argument list
-  Projecte Codi 1.vcxproj -> F:\Projecte Codi 1\Debug\Projecte Codi 1.exe
-  Projecte Codi 1.vcxproj -> F:\Projecte Codi 1\Debug\Projecte Codi 1.pdb (Partial PDB)
+c:\users\davidvh1\documents\github\other-sdl-exercises\projecte codi 1\projecte codi 1\main1.cpp(74): warning C4551: function call missing argument list
+c:\users\davidvh1\documents\github\other-sdl-exercises\projecte codi 1\projecte codi 1\main1.cpp(82): warning C4551: function call missing argument list
+  Projecte Codi 1.vcxproj -> C:\Users\davidvh1\Documents\GitHub\Other-SDL-exercises\Projecte Codi 1\Debug\Projecte Codi 1.exe
+  Projecte Codi 1.vcxproj -> C:\Users\davidvh1\Documents\GitHub\Other-SDL-exercises\Projecte Codi 1\Debug\Projecte Codi 1.pdb (Partial PDB)
